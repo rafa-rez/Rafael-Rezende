@@ -11,7 +11,4 @@ public class D {
         System.out.print("MB2:");
         return  D2;
     }
-    public void MD3(){
-        System.out.print("MD3");
-    }
 }
