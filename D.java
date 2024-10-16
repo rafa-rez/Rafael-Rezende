@@ -3,12 +3,16 @@ public class D {
     private float D2;
     
     public int MD1(){
-        System.out.print("MB1:");
+        System.out.print("MD1:");
         return D1;
     }
 
     public float MD2(){
-        System.out.print("MB2:");
+        System.out.print("MD2:");
         return  D2;
+    }
+
+    public void MD3(){
+        System.out.print("MD3")
     }
 }
