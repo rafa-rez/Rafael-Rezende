@@ -11,4 +11,7 @@ public class B {
         System.out.print("MB2:");
         return  B2;
     }
+    public void MB3(){
+        System.out.print("MB3")
+    }
 }
