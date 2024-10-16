@@ -8,7 +8,7 @@ public class D {
     }
 
     public float MD2(){
-        System.out.print("MD2:");
+        System.out.print("MB2:");
         return  D2;
     }
 
