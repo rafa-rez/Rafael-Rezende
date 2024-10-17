@@ -13,6 +13,10 @@ public class A {
     }
     
     public void MA3(){
-        System.out.print("Alteração a classe A partir do clone")
+        System.out.print("Alteração a classe A partir do clone");
+    }
+
+    public int getSoma(int numA, int numB){
+        return  numA+numB;
     }
 }
